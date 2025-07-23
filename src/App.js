@@ -15,7 +15,7 @@ function App() {
       <Header />
       <main style={{ marginTop: "70px" }}></main>
       <h1 className="highlight">Discover Sri Lanka Like Never Before</h1>
-      <p>Plan ponna Ramesh your perfect journey with optimized routes, discover hidden gems, experience local culture, and create unforgettable memories in the Pearl of the Indian Ocean.</p>
+      <p>Plan trip your perfect journey with optimized routes, discover hidden gems, experience local culture, and create unforgettable memories in the Pearl of the Indian Ocean.</p>
     <HeroSection/>
     <FeaturesSection/>
     <PopularDestinations/>
